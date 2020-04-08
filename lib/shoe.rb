@@ -9,7 +9,7 @@ class Shoe
 
   def condition
     puts "Your shoe is good as new!"
-    @condition = new 
+    @condition = "new" 
 
 end  
   
