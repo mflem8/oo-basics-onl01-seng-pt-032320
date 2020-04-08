@@ -8,7 +8,8 @@ class Shoe
   end
 
   def condition
-    puts ""
+    puts "Your shoe is good as new!"
+    @condition = new 
 
 end  
   
